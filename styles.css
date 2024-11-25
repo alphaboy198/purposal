@@ -4,6 +4,7 @@ body {
     align-items: center;
     height: 90vh;
     /* background-color: rgb(110, 154, 237); */
+        background-color: rgb(95, 151, 242);
    
     color: white;
 }
@@ -16,20 +17,6 @@ h2{
     /* color: white; */
 }
 
-.container{
-    background-image: url('/couple.jpg');
-
-    background-size: cover; /* Ensures the image covers the entire container */
-    background-position: center;
-    background-repeat: no-repeat; /* Prevents the image from repeating */
-    width: 100%; /* Ensures the container spans the full width */
-    height: 107vh; /* Adjust height based on your requirements */
-
-    /* text-align: center;
-    display: flex;
-  justify-content: center; /* Centers horizontally */
-  /* align-items: center;  */ 
-}
 
 #noButton {
     position: absolute;
